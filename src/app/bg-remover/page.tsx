@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useRef, useState } from 'react';
+import { useRef, useState } from 'react';
 
 export default function BgRemover() {
   const [image, setImage] = useState<HTMLImageElement | null>(null);

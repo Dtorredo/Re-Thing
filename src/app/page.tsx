@@ -1,5 +1,4 @@
 import { ImageUploader } from "@/components/image-uploader";
-import { GradientText } from "@/components/ui/gradient-text";
 import Link from "next/link";
 
 const page = () => {
