@@ -1,14 +1,12 @@
-# Pic thing ???**
+# Background remover
 ![banner](/src/app/og-image.png)
 
-theo made his api too expensive, so i made it cheaper (free and open source)
 A modern web application built with Next.js for processing and manipulating images with text. This application provides powerful image processing capabilities including background removal and text overlay features.
 
 ## 🚀 Features
 
 - Image background removal using @imgly/background-removal
 - Modern UI with Tailwind CSS
-- Dark/Light mode support
 - Type-safe development with TypeScript
 - Fast development with Turbopack
 
